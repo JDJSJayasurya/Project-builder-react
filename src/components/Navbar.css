@@ -1,0 +1,14 @@
+.img {
+  height: 80px;
+  width: 75px;
+  padding: 10px 100px 2px;
+}
+.nav {
+  background: #a28089;
+  padding: 20px 0px 20px 0px;
+  color: aqua;
+}
+.signup {
+  background-color: black;
+  color: white;
+}

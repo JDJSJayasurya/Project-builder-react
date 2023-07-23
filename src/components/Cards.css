@@ -1,0 +1,27 @@
+.elements {
+  background-color: rgb(31, 112, 166);
+  color: aliceblue;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 20px 0px 20px 0px;
+}
+a:hover {
+  color: #9d6bfb;
+  border-radius: 7px;
+  border: rgba(10, 114, 240, 0.393);
+  box-shadow: 0 2px 5px #d0bdf4;
+}
+a:link {
+  border-radius: 7px;
+  box-sizing: content-box;
+  letter-spacing: 2px;
+  background-color: rgba(29, 13, 248, 0.493);
+  line-height: 5;
+  text-decoration: none;
+}
+a {
+  color: #d0bdf4;
+  box-sizing: border-box;
+  padding: 30px 100px 30px 100px;
+}
